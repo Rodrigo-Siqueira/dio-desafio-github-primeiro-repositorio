@@ -1,0 +1,8 @@
+git init = inicia o git na pasta em uso.
+git add = adiciona os arquivos não rastreados.
+git status = retorna o status operandos.
+git commit = envia os arquivos para a parte principal
+ e possibilita escrever mensagem descritiva.
+git pull = verifica se houve mudanças no repositório.
+git clone = clona um repositório.
+git push = atualiza remotamente os objetos associados.
